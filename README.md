@@ -20,3 +20,15 @@ lab2/
 │ ├── color.py # Класс/модуль для работы с цветами
 ├── lab_2.py # Основной скрипт
 └── README.md # Описание проекта
+
+**Запуск проекта:**  
+1. Склонируйте репозиторий:  
+   ```bash
+   git clone https://github.com/ArturBab/lab2.git
+   cd lab2
+
+2. Запустите lab_2.py:
+   ```bash
+   python lab2.py
+
+**Связанные материалы:** [Python.org](https://docs.python.org/3/tutorial/classes.html)  
